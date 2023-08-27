@@ -1,0 +1,28 @@
+.page {
+  margin: 0;
+  padding: 0;
+  font-family: 'segoe ui light';
+  height: 400px;
+  background-image: url("h1_hero2.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+
+.info{
+  padding-top: 100px;
+  padding-left: 450px;
+  text-align: center;
+  
+}
+.b1{
+  background-color: black;
+  color: white;
+  width: 100px;
+  height: 40px;
+}
+.p1{
+  font-weight: bold;
+  font-size: 25px;
+}
